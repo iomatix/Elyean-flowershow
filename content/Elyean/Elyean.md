@@ -10,5 +10,5 @@ _sort:
   asc: false
   group: false
 color: var(--mk-color-turquoise)
-sticker: lucide//bookmark
+sticker: emoji//1f6e1-fe0f
 ---
