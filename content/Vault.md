@@ -2,7 +2,6 @@
 _filters: []
 _contexts: []
 _links:
-  - index.md
   - Tags
 _sort:
   field: rank
