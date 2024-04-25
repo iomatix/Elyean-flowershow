@@ -1,7 +1,9 @@
 ---
 _filters: []
 _contexts: []
-_links: []
+_links:
+  - index.md
+  - Tags
 _sort:
   field: rank
   asc: false
