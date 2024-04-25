@@ -10,7 +10,7 @@ Link: https://projectelyean.atlassian.net/browse/PEZE-124
 
 
 #todo:
-- [ ] Create todo list
+- [ ] Create todo list 
 - [ ] 
 
 ## Notes:
