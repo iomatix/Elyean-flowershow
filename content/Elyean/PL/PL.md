@@ -1,7 +1,10 @@
 ---
 _filters: []
 _contexts: []
-_links: []
+_links:
+  - Elyean/PL/Zawartość
+  - Elyean/PL/Księgi
+  - Elyean/PL/index.md
 _sort:
   field: rank
   asc: false
